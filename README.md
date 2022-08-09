@@ -1,10 +1,6 @@
-# presentacion-
+# Presentacion
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Hola soy Matias Mattioli, tengo 21 años y estoy estudiando Ciencia de Datos. 
+Tengo dos gatos y un perro.
+Me gusta la Formula 1, los videojuegos, el basquet y los gatos, entre otras cosas. ;)
 
-Ya saben usar git!
